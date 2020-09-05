@@ -1,8 +1,8 @@
 ### Hi there I'm futurelucas4502 (Lucas Wilson) 👋
 
-- 🔭 I’m currently working on [light-electron-renderer](https://github.com/futurelucas4502/light-electron-renderer) as my main focus
+- 🔭 I’m currently working on [light-electron-renderer](https://github.com/futurelucas4502/light-electron-renderer) as my main focus!
 
-- 🌱 I’m currently learning Deno, typescript and expanding my knowledge of languages im familiar with
+- 🌱 I’m currently learning Deno, typescript and expanding my knowledge of languages I'm familiar with!
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=futurelucas4502&show_icons=true" alt="futurelucas4502" />
 
