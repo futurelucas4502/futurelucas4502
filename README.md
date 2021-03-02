@@ -7,7 +7,7 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with [Light Electron Renderer](https://github.com/futurelucas4502/light-electron-renderer)
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: On Discord @futurelucas#4502
+- 📫 How to reach me: On Discord @futurelucas4502#9733
 - 😄 Pronouns: him/he
 <!-- - ⚡ Fun fact: ... -->
 
