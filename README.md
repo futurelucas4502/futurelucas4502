@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on University Coursework
 - 🌱 I’m currently learning C, Java and Python
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with [Light Electron Renderer](https://github.com/futurelucas4502/light-electron-renderer)
+- 🤔 I’m currently working on a remake of my Universitys application
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: On Discord @futurelucas4502#9733
 - 😄 Pronouns: him/he
