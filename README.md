@@ -2,9 +2,9 @@
 
 ### Hi there I'm futurelucas4502 (Lucas Wilson) 👋
 
-- 🔭 I’m currently working on University Coursework
 - 🌱 I’m currently learning C, Java and Python
 - 😄 Pronouns: he/him
+<!-- - 🔭 I’m currently working on -->
 <!-- - 📫 How to reach me: -->
 <!-- - 🤔 I’m looking for help with [Light Electron Renderer](https://github.com/futurelucas4502/light-electron-renderer) -->
 <!-- - 👯 I’m looking to collaborate on ... -->
