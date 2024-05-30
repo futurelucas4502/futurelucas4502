@@ -2,7 +2,7 @@
 
 ### Hi there I'm futurelucas4502 (Lucas Wilson) 👋
 
-- 🌱 I’m currently studying at University
+- 🌱 I’m currently working at Mill Autoquip in Redruth programming when I can in my free time
 - 😄 Pronouns: he/him
 <!-- - 🔭 I’m currently working on -->
 <!-- - 📫 How to reach me: -->
